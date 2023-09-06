@@ -1,0 +1,88 @@
+{
+  "maxEvents" : 10,
+  "maxTask" : 10,
+  "name" : "Summer Break",
+  "Theme" : "DAYTIME",
+  "Days" : [ {
+    "day" : "SUN",
+    "date" : "2023-07-08",
+    "plannedItems" : [ ]
+  }, {
+    "day" : "MON",
+    "date" : "2023-07-08",
+    "plannedItems" : [ {
+      "type" : "task",
+      "detail" : {
+        "name" : "Finish HW",
+        "description" : "finish HW for the summer break",
+        "category" : "",
+        "complete" : true
+      }
+    }, {
+      "type" : "task",
+      "detail" : {
+        "name" : "Finish extra practice",
+        "description" : "",
+        "category" : "",
+        "complete" : true
+      }
+    } ]
+  }, {
+    "day" : "TUE",
+    "date" : "2023-07-08",
+    "plannedItems" : [ ]
+  }, {
+    "day" : "WED",
+    "date" : "2023-07-08",
+    "plannedItems" : [ {
+      "type" : "event",
+      "detail" : {
+        "name" : "Make cake",
+        "description" : "as giftas giftas gift",
+        "category" : "",
+        "start-time" : "05:50",
+        "duration" : 130
+      }
+    }, {
+      "type" : "task",
+      "detail" : {
+        "name" : "Apple ",
+        "description" : "shoopping",
+        "category" : "",
+        "complete" : false
+      }
+    }, {
+      "type" : "event",
+      "detail" : {
+        "name" : "Bee",
+        "description" : "",
+        "category" : "",
+        "start-time" : "11:20",
+        "duration" : 900
+      }
+    } ]
+  }, {
+    "day" : "THU",
+    "date" : "2023-07-08",
+    "plannedItems" : [ ]
+  }, {
+    "day" : "FRI",
+    "date" : "2023-07-08",
+    "plannedItems" : [ {
+      "type" : "event",
+      "detail" : {
+        "name" : "Birthday Party for neibor",
+        "description" : "need to prepare gift need to prepare gift need to prepare gift ",
+        "category" : "Important",
+        "start-time" : "11:20",
+        "duration" : 60
+      }
+    } ]
+  }, {
+    "day" : "SAT",
+    "date" : "2023-07-08",
+    "plannedItems" : [ ]
+  } ],
+  "startDate" : "2023-07-08",
+  "Categories" : [ "Emergency", "Important" ]
+}
